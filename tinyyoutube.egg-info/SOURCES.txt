@@ -1,0 +1,7 @@
+README.md
+setup.py
+tinyyoutube/__init__.py
+tinyyoutube.egg-info/PKG-INFO
+tinyyoutube.egg-info/SOURCES.txt
+tinyyoutube.egg-info/dependency_links.txt
+tinyyoutube.egg-info/top_level.txt
